@@ -1,0 +1,5 @@
+{
+  "name": "CtrlWP - Deployment Logs",
+  "description": "A web application to view real-time deployment logs for WordPress sites managed by CtrlWP, a modern Trellis-based hosting platform.",
+  "requestFramePermissions": []
+}
